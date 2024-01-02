@@ -5,6 +5,7 @@ const App = () => {
   return (
     <div>
       <Input todo={todo} setTodo={setTodo} />
+      hii Lavi my Baby
     </div>
   )
 }
